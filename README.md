@@ -154,14 +154,11 @@ flutter run -d windows
 # Run on Android
 flutter run -d android
 ```
-
 ## Demo
 
-<p align="center">
-  <video src="assets/video/v1.mp4" controls width="800">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<video src="assets/readme/focusflow_demo.mp4" controls width="800">
+  Your browser does not support the video tag.
+</video>
 
 > Anant Jodha Rathore
 
