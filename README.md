@@ -2,7 +2,7 @@
 
 # FocusFlow
 
-![FocusFlow Logo](assets/icons/focusflow_icon.png)
+![FocusFlow Logo](assets/icons/focusflow_logo.png)
 
 **A cross-device digital wellness and productivity platform built with Flutter.**
 
