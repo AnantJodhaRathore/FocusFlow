@@ -9,10 +9,12 @@
 FocusFlow helps users maintain healthy screen habits, reduce eye strain, improve focus,
 and build sustainable work routines — across Windows, Android, Tablet, and Web from a single codebase.
 
-![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=flat&logo=flutter)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Tablet%20%7C%20Web-informational?style=flat)
-![Phase](https://img.shields.io/badge/Phase%201-Complete-success?style=flat)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
+![Dashboard](assets/screenshot/s1.png)
+![Analytics](assets/screenshot/s2.png)
+![Eye Health](assets/screenshot/s3.png)
+![Activity](assets/screenshot/s4.png)
+![Settings](assets/screenshot/s5.png)
+![Login](assets/screenshot/s6.png)
 
 </div>
 
