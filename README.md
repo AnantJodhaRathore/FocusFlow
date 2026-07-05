@@ -155,6 +155,14 @@ flutter run -d windows
 flutter run -d android
 ```
 
+## Demo
+
+<p align="center">
+  <video src="assets/video/v1.mp4" controls width="800">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 > Anant Jodha Rathore
 
 ---
