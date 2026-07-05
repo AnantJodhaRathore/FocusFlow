@@ -2,6 +2,8 @@
 
 # FocusFlow
 
+![FocusFlow Logo](assets/icons/focusflow_logo.png)
+
 **A cross-device digital wellness and productivity platform built with Flutter.**
 
 FocusFlow helps users maintain healthy screen habits, reduce eye strain, improve focus,
