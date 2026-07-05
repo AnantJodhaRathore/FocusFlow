@@ -156,7 +156,7 @@ flutter run -d android
 ```
 ## Demo
 
-<video src="assets/readme/focusflow_demo.mp4" controls width="800">
+<video src="assets/video/v1.mp4" controls width="800">
   Your browser does not support the video tag.
 </video>
 
